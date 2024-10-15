@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/AsignarCamionesDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/DetallesLlegadaDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/Paquete.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorCamioneros.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/Provincias.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/ProvinciasDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorPaquetes.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/DetallesLlegada.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/CamionesDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/Provincia.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/Camionero.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/MenuPrincipal.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorCamiones.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/PaquetesDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/AsgnCamion.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/DAO/CamioneroDAO.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorDetallesLlegada.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorAsignarCamion.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/AsignarCamion.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Menu.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/LlegadaPaquete.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/Camiones.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/Camioneros.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Modelo/entidades/Camion.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Vista/Paneles/Paquetes.java</file>
+            <file>file:/C:/Users/roy-j/OneDrive/Documentos/NetBeansProjects/Transporte_Paquetes/src/Controlador/ControladorProvincias.java</file>
+        </group>
+    </open-files>
+</project-private>
